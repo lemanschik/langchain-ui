@@ -18,3 +18,17 @@ const database = new DatabaseSync(':memory:');
 
 // const database = new DatabaseSync('path/to/file');
 // Specify the path of the SQLite database file
+
+
+// Working with external knowledge
+// Build a Retrieval Augmented Generation (RAG) Application
+// Build a Conversational RAG Application
+// Build a Question/Answering system over SQL data
+// Build a Query Analysis System
+// Build a local RAG application
+// Build a Question Answering application over a Graph Database
+// Build a PDF ingestion and Question/Answering system
+// Specialized tasks
+// Build an Extraction Chain
+// Classify text into labels
+// Summarize text
